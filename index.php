@@ -19,6 +19,12 @@
 
             <div id="errorMess"></div>
         </div>
+        <div>
+            <span id="user">1</span>
+            <p id="feedback">1</p>
+
+
+        </div>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script src="js/formMail.js"></script>
